@@ -1,0 +1,26 @@
+11-10=Lecture 01 d
+13-10=Lecture 02 d
+18-10P1=Lecture 03 d
+18-10P2=Lecture 04 d
+25-10=Lecture 05 d
+27-10=Lecture 06 d
+01-11=Lecture 07 d
+8-11=Lecture 08 d
+10-11=Lecture 09 d
+11-11=Lecture 10 d
+15-11P1=Lecture 11 d
+15-11P2=Lecture 12 d
+15-11E=Lecture 13 d
+
+
+28-11=Lecture 14
+08-12=Lecture 15
+13-12=Lecture 16
+15-12=Lecture 17
+22-12=Lecture 18
+25-12=Lecture 19
+27-12=Lecture 20
+03-01=Lecture 21
+05-01=Lecture 22
+08-01=Lecture 23
+10-01=Lecture 24
